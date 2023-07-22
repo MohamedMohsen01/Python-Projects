@@ -3,51 +3,6 @@ Spotify and YouTube Data Analysis
 
 <h4>Dataset  link </h4>: https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube
 
- ### Functions and methods used:
-- plt.style.use)
-- pd.set_option()
-- sns.light_palette()
-- head()
-- tail()
-- describe()
-- info()
--  nunique()
-- isna().sum()
-- dropna()
-- duplicated()
-- duplicated().sum()
-- groupby()
-- sum()
-- sort_values()
-- plt.subplots()
-- plt.title
-- set_xlabel()
-- set_ylabel()
-- sns.barplot()
-- xaxis.set_major_formatter()
-- yaxis.set_major_formatter()
-- ticker.FuncFormatter()
-- reset_index()
-- lambda function
-- plt.pie()
-- plt.figure()
-- sns.countplot()
-- value_counts()
-- size()
-- df.columns
-- agg()
-- lineplot()
-- xticks()
-- sns.pairplot()
-- hist()
-- corr()
-- heatmap()
-- sns.scatterplot()
-- sns.lmplot()
-- sns.jointplot()
-- sns.regplot()
-- jointplot(kind='resid')
-- jointplot(kind='hex')
 
 
 ## Summary
@@ -109,7 +64,51 @@ Some of the questions I've answered based on the data:
 
 
 
-
+### Functions and methods used:
+- plt.style.use)
+- pd.set_option()
+- sns.light_palette()
+- head()
+- tail()
+- describe()
+- info()
+-  nunique()
+- isna().sum()
+- dropna()
+- duplicated()
+- duplicated().sum()
+- groupby()
+- sum()
+- sort_values()
+- plt.subplots()
+- plt.title
+- set_xlabel()
+- set_ylabel()
+- sns.barplot()
+- xaxis.set_major_formatter()
+- yaxis.set_major_formatter()
+- ticker.FuncFormatter()
+- reset_index()
+- lambda function
+- plt.pie()
+- plt.figure()
+- sns.countplot()
+- value_counts()
+- size()
+- df.columns
+- agg()
+- lineplot()
+- xticks()
+- sns.pairplot()
+- hist()
+- corr()
+- heatmap()
+- sns.scatterplot()
+- sns.lmplot()
+- sns.jointplot()
+- sns.regplot()
+- jointplot(kind='resid')
+- jointplot(kind='hex')
 
 
 ## Project Highlights
