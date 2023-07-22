@@ -59,7 +59,28 @@ In data wrangling and cleaning, I performed essential tasks to ensure reliable a
 
 ## Exploratory Data Analysis (EDA): 
 Some of the questions I've answered based on the data:
-1. 
+What are the Top 10 Artists with the highest total Streams on Spotify?
+How can I retrieve the top 10 Artists with the highest total views on YouTube?
+Which are the Top 10 Artists with the highest total number of comments?
+What are the Top 10 Artists with the highest total likes on YouTube?
+What are the Top 10 Songs with the highest total Streams on Spotify?
+How can I retrieve the top 10 Artists with the highest average total views on YouTube and streams on Spotify?
+Which are the Top 10 Songs with the highest total number of comments on YouTube?
+Which Songs have the highest total likes on YouTube in the top 10 ranking?
+How can I retrieve the top 10 Songs with the highest total views on YouTube?
+Can you provide a list of the Top 10 most liked Songs on YouTube along with their Artists?
+What are the Top 10 Most Viewed Songs on YouTube along with their Artists?
+How do the most-watched Songs on YouTube compare to the Songs with the highest total number of Streams on Spotify?
+Which Album type tends to receive higher views on YouTube?
+How can I identify the top 10 Albums with the highest number of views on YouTube?
+Which album has garnered the highest number of comments on YouTube?
+Which album has received the highest number of Likes on YouTube?
+What albums have received the highest total number of Streams on Spotify?
+Can you provide a list of the Top 10 YouTube channels with the highest total number of likes?
+How can I find the Top 10 YouTube channels with the highest number of Views?
+What is the distribution of Album Types?
+What are the Top 10 Licensed Albums on YouTube and Spotify?
+
 
 
 
