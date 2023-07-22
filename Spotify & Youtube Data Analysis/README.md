@@ -74,6 +74,7 @@ Some of the questions I've answered based on the data:
 - info()
 -  nunique()
 - isna().sum()
+- drop()
 - dropna()
 - duplicated()
 - duplicated().sum()
