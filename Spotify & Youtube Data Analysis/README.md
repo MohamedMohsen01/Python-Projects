@@ -104,7 +104,7 @@ In data wrangling and cleaning, I performed essential tasks to ensure reliable a
 
 
 
-### Functions and methods used:
+## Functions and methods used:
 - plt.style.use)
 - pd.set_option()
 - sns.light_palette()
