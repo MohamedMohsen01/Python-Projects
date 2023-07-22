@@ -60,29 +60,29 @@ In data wrangling and cleaning, I performed essential tasks to ensure reliable a
 ### Exploratory Data Analysis (EDA): 
 Some of the questions I've answered based on the data:
 1. What are the Top 10 Artists with the highest total Streams on Spotify?
-2. How can I retrieve the top 10 Artists with the highest total views on YouTube?
+2. Retrieve the top 10 Artists with the highest total views on YouTube?
 3. Which are the Top 10 Artists with the highest total number of comments?
 4. What are the Top 10 Artists with the highest total likes on YouTube?
 5. What are the Top 10 Songs with the highest total Streams on Spotify?
-6. How can I retrieve the top 10 Artists with the highest average total views on YouTube and streams on Spotify?
+6. Retrieve the top 10 Artists with the highest average total views on YouTube and streams on Spotify?
 7. Which are the Top 10 Songs with the highest total number of comments on YouTube?
 8. Which Songs have the highest total likes on YouTube in the top 10 ranking?
-9. How can I retrieve the top 10 Songs with the highest total views on YouTube?
+9. How can you retrieve the top 10 Songs with the highest total views on YouTube?
 10. Can you provide a list of the Top 10 most liked Songs on YouTube along with their Artists?
 11. What are the Top 10 Most Viewed Songs on YouTube along with their Artists?
 12. How do the most-watched Songs on YouTube compare to the Songs with the highest total number of Streams on Spotify?
 13. Which Album type tends to receive higher views on YouTube?
-14. How can I identify the top 10 Albums with the highest number of views on YouTube?
+14. How can you identify the top 10 Albums with the highest number of views on YouTube?
 15. Which album has garnered the highest number of comments on YouTube?
 16. Which album has received the highest number of Likes on YouTube?
 17. What albums have received the highest total number of Streams on Spotify?
 18. Can you provide a list of the Top 10 YouTube channels with the highest total number of likes?
-19. How can I find the Top 10 YouTube channels with the highest number of Views?
+19. How can you find the Top 10 YouTube channels with the highest number of Views?
 20. What is the distribution of Album Types?
 21. What are the Top 10 Licensed Albums on YouTube and Spotify?
 22. What is the distribution of the 'official_video' and 'Licensed' features?
 23. Can you conduct a comprehensive analysis of different features for the top 10 most viewed songs?
-24. How can I visualize the correlation between different numerical variables using a Pairplot?
+24. How can you visualize the correlation between different numerical variables using a Pairplot?
 25. Can you create a histogram to visualize all the important features of Songs?
 26. What does the Pairplot of the most important numerical features reveal?
 27. Is there any correlation between the features displayed in the matrix heatmap?
