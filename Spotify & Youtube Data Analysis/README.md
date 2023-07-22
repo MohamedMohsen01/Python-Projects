@@ -54,7 +54,7 @@ In this project, we embark on a journey to unravel the fascinating world of musi
 ### Data Pre-processing and Cleaning: 
 In data wrangling and cleaning, I performed essential tasks to ensure reliable and usable data. Here are the key steps I took:
 - Addressed missing data using techniques like imputation or deletion.
-- Ensured data integrity by removing duplicate records.
+- Ensured data integrity by searching for duplicate records.
 - Changed the data types as needed.
 
 ### Exploratory Data Analysis (EDA): 
