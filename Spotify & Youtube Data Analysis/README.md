@@ -47,17 +47,17 @@ In this project, we embark on a journey to unravel the fascinating world of musi
 
 ## Methodology
 
-#### Data Exploration: 
+### Data Exploration: 
 - Explored the dataset's structure, encompassing columns, data types, and data dictionary.
 - Identified the relevant business inquiries or objectives from the dataset.
 
-#### Data Pre-processing and Cleaning: 
+### Data Pre-processing and Cleaning: 
 In data wrangling and cleaning, I performed essential tasks to ensure reliable and usable data. Here are the key steps I took:
 - Addressed missing data using techniques like imputation or deletion.
 - Ensured data integrity by removing duplicate records.
 - Changed the data types as needed.
 
-## Exploratory Data Analysis (EDA): 
+### Exploratory Data Analysis (EDA): 
 1. Some of the questions I've answered based on the data:
 2. What are the Top 10 Artists with the highest total Streams on Spotify?
 3. How can I retrieve the top 10 Artists with the highest total views on YouTube?
