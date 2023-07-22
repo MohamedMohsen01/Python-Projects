@@ -1,17 +1,17 @@
-## Project Name
-Spotify and YouTube Data Analysis
+## Project Name:
+#### Spotify and YouTube Data Analysis
 
 <h4>Dataset  link </h4>: https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube
 
 
 
-## Summary
+## Summary:
 
 In this project, we embark on a journey to unravel the fascinating world of music streaming trends and artist performance. By delving into data from both Spotify and YouTube, we seek to gain valuable insights and shed light on the dynamics that drive the success of artists and songs on these platforms. Through an extensive Exploratory Data Analysis (EDA), we will explore the intricate relationships between views, likes, streams, and other variables, ultimately uncovering captivating patterns and offering actionable insights for music streaming platforms, artists....
 
 
 
-## Cases & Features Interpretability
+## Cases & Features Interpretability:
 
 1. Track: name of the song, as visible on the Spotify platform.
 2. Artist: name of the artist.
@@ -44,20 +44,21 @@ In this project, we embark on a journey to unravel the fascinating world of musi
 
 
 
+## Methodology:
 
-## Methodology
-
-### Data Exploration: 
+#### 1. Data Exploration: 
 - Explored the dataset's structure, encompassing columns, data types, and data dictionary.
 - Identified the relevant business inquiries or objectives from the dataset.
 
-### Data Pre-processing and Cleaning: 
+#### 2. Data Pre-processing and Cleaning: 
 In data wrangling and cleaning, I performed essential tasks to ensure reliable and usable data. Here are the key steps I took:
 - Addressed missing data using python techniques to delete and clean the data .
 - Ensured data integrity by searching for and cleaning duplicate records.
 - Changed the data types as needed.
 
-### Exploratory Data Analysis (EDA): 
+
+
+## Exploratory Data Analysis (EDA): 
 Some of the questions I've answered based on the data:
 1. What are the Top 10 Artists with the highest total Streams on Spotify?
 2. Retrieve the top 10 Artists with the highest total views on YouTube?
@@ -152,6 +153,7 @@ Some of the questions I've answered based on the data:
 - jointplot(kind='hex')
 
 
+
 ## Insights
 
 - "Dua Lipa" claimed the top position with an impressive 13.4 billion streams, closely followed by "XXXTENTACION" in second place with 12 billion streams. "Coldplay" secured the third spot with 11 billion streams.
@@ -190,13 +192,25 @@ YouTube Views Milestone:
 ## Conclusion
 Through this comprehensive project, we have delved into the fascinating world of music streaming and social media to uncover the remarkable milestones achieved by various artists and songs. 
 
-- "Dua Lipa" firmly claimed the top position with an impressive 13.4 billion streams on Spotify, closely followed by "XXXTENTACION" and "Coldplay" with 12 billion and 11 billion streams, respectively. On YouTube, "Bruno Mars" achieved an incredible milestone, amassing a staggering 10.23 billion views, securing the top spot, while "Macklemore & Ryan Lewis" and "Coldplay" closely followed with 10.12 billion and 10 billion views, respectively.
+- "Dua Lipa" firmly claimed the top position with an impressive 13.4 billion streams on Spotify, closely followed by "XXXTENTACION" and "Coldplay" with 12 billion and 11 billion streams.
+
+- On YouTube, "Bruno Mars" achieved an incredible milestone, amassing a staggering 10.23 billion views, securing the top spot, while "Macklemore & Ryan Lewis" and "Coldplay" closely followed with 10.12 billion and 10 billion views, respectively.
 
 - "BTS" emerged as an unstoppable force on the digital stage, dominating with a record-breaking 39.5 million comments, securing the top spot in YouTube comments. Meanwhile, their massive fan following translated into social media popularity, as they emerged as the most liked artist with an astounding 139.4 million likes. "BLACKPINK" and Charlie Puth also gained significant admiration, securing the second and third positions with 132.3 million and 86.3 million likes, respectively.
 
-- Among the top streamed songs on Spotify, "Can't Hold Us (feat. Ray Dalton)" stole the show with an impressive 5.2 billion streams, closely followed by "Happier" and "The Middle" with over 4.7 billion and 4.5 billion streams, respectively. On YouTube, "Despacito" reigned supreme, amassing a staggering 101 million likes, with "See You Again (feat. Charlie Puth)" and "Boy With Luv (feat. Halsey)" securing the second and third positions with 80 million and 55 million likes, respectively. In terms of YouTube views, "Swalla (feat. Nicki Minaj & Ty Dolla $ign)" captured the top spot with an impressive 5 billion views, followed by "Thrift Shop (feat. Wanz)" and "Something Just Like This" with 4.5 billion and 4.2 billion views, respectively.
+- Among the top streamed songs on Spotify, "Can't Hold Us (feat. Ray Dalton)" stole the show with an impressive 5.2 billion streams, closely followed by "Happier" and "The Middle" with over 4.7 billion and 4.5 billion streams, respectively.
 
-- Our exploration of album types revealed that "Albums" were overwhelmingly dominant, representing a significant 75% of the total data, outshining compilation and single types. Among the top albums on YouTube, "The Heist" garnered the highest number of views, amassing a total of 11.2 billion, with "Swalla (feat. Nicki Minaj & Ty Dolla $ign)" and "Hollywood's Bleeding" securing the second and third positions with 5.1 billion views each. On the other hand, "Album Vida" emerged as the most popular album in terms of likes, amassing a total of 120 million, with "See You Again" and "The Heist" closely following in the second and third positions with 80 million and 74 million likes, respectively. Notably, "Vida" defied the trend by garnering higher likes while also being the most commented song, receiving a positive response from the audience.
+- On YouTube, "Despacito" reigned supreme, amassing a staggering 101 million likes, with "See You Again (feat. Charlie Puth)" and "Boy With Luv (feat. Halsey)" securing the second and third positions with 80 million and 55 million likes, respectively.
+
+- In terms of YouTube views, "Swalla (feat. Nicki Minaj & Ty Dolla $ign)" captured the top spot with an impressive 5 billion views, followed by "Thrift Shop (feat. Wanz)" and "Something Just Like This" with 4.5 billion and 4.2 billion views.
+
+- Our exploration of album types revealed that "Albums" were overwhelmingly dominant, representing a significant 75% of the total data, outshining compilation and single types.
+
+- Among the top albums on YouTube, "The Heist" garnered the highest number of views, amassing a total of 11.2 billion, with "Swalla (feat. Nicki Minaj & Ty Dolla $ign)" and "Hollywood's Bleeding" securing the second and third positions with 5.1 billion views each.
+
+- On the other hand, "Album Vida" emerged as the most popular album in terms of likes, amassing a total of 120 million, with "See You Again" and "The Heist" closely following in the second and third positions with 80 million and 74 million likes, respectively.
+
+- Notably, "Vida" defied the trend by garnering higher likes while also being the most commented song, receiving a positive response from the audience.
 
 - In the realm of streaming, "The Heist" maintained its popularity, securing the top spot with an impressive total of 9.7 billion streams on Spotify. "Un Verano Sin Ti" and "SOUR" followed closely in the second and third positions with 8.4 billion and 8.3 billion streams, respectively.
 
