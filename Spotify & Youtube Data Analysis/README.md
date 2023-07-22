@@ -111,7 +111,7 @@ Some of the questions I've answered based on the data:
 - jointplot(kind='hex')
 
 
-## Project Highlights
+## Insights
 
 - "Dua Lipa" claimed the top position with an impressive 13.4 billion streams, closely followed by "XXXTENTACION" in second place with 12 billion streams. "Coldplay" secured the third spot with 11 billion streams.
 YouTube Views Milestone:
