@@ -20,6 +20,7 @@ Spotify and YouTube Data Analysis
 - sum()
 - sort_values()
 - plt.subplots()
+- plt.title
 - set_xlabel()
 - set_ylabel()
 - sns.barplot()
