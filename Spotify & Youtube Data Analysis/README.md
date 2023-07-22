@@ -3,6 +3,50 @@ Spotify and YouTube Data Analysis
 
 <h4>Dataset  link </h4>: https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube
 
+ ### Functions and methods used:
+plt.style.use)
+pd.set_option()
+sns.light_palette()
+head()
+tail()
+nunique()
+isna().sum()
+dropna()
+duplicated()
+duplicated().sum()
+groupby()
+sum()
+sort_values()
+plt.subplots()
+set_xlabel()
+set_ylabel()
+sns.barplot()
+xaxis.set_major_formatter()
+yaxis.set_major_formatter()
+ticker.FuncFormatter()
+reset_index()
+lambda function
+plt.pie()
+plt.figure()
+sns.countplot()
+value_counts()
+size()
+df.columns
+agg()
+lineplot()
+xticks()
+sns.pairplot()
+hist()
+corr()
+heatmap()
+sns.scatterplot()
+sns.lmplot()
+sns.jointplot()
+sns.regplot()
+jointplot(kind='resid')
+jointplot(kind='hex')
+
+
 ## Summary
 
 In this project, we embark on a journey to unravel the fascinating world of music streaming trends and artist performance. By delving into data from both Spotify and YouTube, we seek to gain valuable insights and shed light on the dynamics that drive the success of artists and songs on these platforms. Through an extensive Exploratory Data Analysis (EDA), we will explore the intricate relationships between views, likes, streams, and other variables, ultimately uncovering captivating patterns and offering actionable insights for music streaming platforms, artists....
@@ -40,8 +84,6 @@ In this project, we embark on a journey to unravel the fascinating world of musi
 27. Official Video: Indicates if the video is the official video of the song (boolean value).
 
 
-
- ### Query types used:
 
 
 
