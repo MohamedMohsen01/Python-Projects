@@ -59,8 +59,8 @@ In data wrangling and cleaning, I performed essential tasks to ensure reliable a
 
 
 ## Exploratory Data Analysis (EDA): 
-Enhanced the initial data exploration process during the EDA phase, gaining a profound understanding of the variables and their distributions. 
-Some of the questions I've answered based on the data:
+- Enhanced the initial data exploration process during the EDA phase, gaining a profound understanding of the variables and their distributions. 
+- Some of the questions I've answered based on the data:
 1. What are the Top 10 Artists with the highest total Streams on Spotify?
 2. Retrieve the top 10 Artists with the highest total views on YouTube?
 3. Which are the Top 10 Artists with the highest total number of comments?
