@@ -59,8 +59,8 @@ In data wrangling and cleaning, I performed essential tasks to ensure reliable a
 
 
 ## Exploratory Data Analysis (EDA): 
-- Enhanced the initial data exploration process during the EDA phase, gaining a profound understanding of the variables and their distributions. 
-- Some of the questions I've answered based on the data:
+Enhanced the initial data exploration process during the EDA phase, gaining a profound understanding of the variables and their distributions. 
+Some of the questions I've answered based on the data:
 1. What are the Top 10 Artists with the highest total Streams on Spotify?
 2. Retrieve the top 10 Artists with the highest total views on YouTube?
 3. Which are the Top 10 Artists with the highest total number of comments?
@@ -195,7 +195,7 @@ Through this comprehensive project, we have delved into the fascinating world of
 
 - On YouTube, "Bruno Mars" achieved an incredible milestone, amassing a staggering 10.23 billion views, securing the top spot, while "Macklemore & Ryan Lewis" and "Coldplay" closely followed with 10.12 billion and 10 billion views, respectively.
 
-- "BTS" emerged as an unstoppable force on the digital stage, dominating with a record-breaking 39.5 million comments, securing the top spot in YouTube comments. Meanwhile, their massive fan following translated into social media popularity, as they emerged as the most liked artist with an astounding 139.4 million likes. "BLACKPINK" and Charlie Puth also gained significant admiration, securing the second and third positions with 132.3 million and 86.3 million likes, respectively.
+- "BTS" emerged as an unstoppable force on the digital stage, dominating with a record-breaking 39.5 million comments, securing the top spot in YouTube comments. Meanwhile, their massive fan following translated into social media popularity, as they emerged as the most liked artist with an astounding 139.4 million likes. "BLACKPINK" and "Charlie Puth" also gained significant admiration, securing the second and third positions with 132.3 million and 86.3 million likes, respectively.
 
 - Among the top streamed songs on Spotify, "Can't Hold Us (feat. Ray Dalton)" stole the show with an impressive 5.2 billion streams, closely followed by "Happier" and "The Middle" with over 4.7 billion and 4.5 billion streams, respectively.
 
