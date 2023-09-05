@@ -34,7 +34,6 @@ The dataset contains 135,039 entries with 17 columns. Some columns have missing 
 Collected the dataset from Kaggle website 
  - Link to the data source: (https://www.kaggle.com/datasets/rajkumarpandey02/electric-vehicle-population-data)
 
-
 ## Data Understanding
 Conducted an in-depth exploration of the dataset's structure, comprehensively documenting available columns, data types, and referring to the data dictionary for clarification.
 
@@ -54,7 +53,8 @@ Exploratory data analysis involves addressing the questions and objectives defin
 The descriptive statistics reveal that the "Electric Range" exhibits a broad range of values, spanning from 0 to 337, with an approximate mean value of 72.3. Likewise, the "Base MSRP" column also displays a wide range of values, with an approximate mean of 1404.82.
 
 ## Data Visualization
-We'll employ a range of data visualization techniques to delve into the connections among distinctive features and uncover any discernible trends or patterns within the dataset. These visualizations may take the form of bar plots, histograms, box plots, and scatter plots, enabling us to grasp the dataset more comprehensively.
+I employed a range of data visualization techniques to delve into the connections among distinctive features and uncovered any discernible trends or patterns within the dataset. These visualizations took the form of bar plots, histograms, box plots, and scatter plots, enabling us to grasp the dataset more comprehensively.
+
 
 ## Conclusion
-Exploring the data will yield valuable insights into the electric vehicle population data. We'll uncover the distribution of various features, pinpoint correlations, and unveil underlying patterns. The visualizations will offer a lucid depiction of data trends, equipping us to make informed choices for subsequent analysis or modeling.
+Exploring the data yielded valuable insights into the electric vehicle population data. I uncovered the distribution of various features, pinpointed correlations, and unveiled underlying patterns. The visualizations offered a lucid depiction of data trends, equipping us to make informed choices for subsequent analysis or modeling.
